@@ -4,7 +4,7 @@
 
 ---
 
-## 💸 Financial & UPI Safety
+##  Financial & UPI Safety
 
 - [ ] **Never enter your UPI PIN to receive money**
   Your PIN only does one thing — authorise a payment *from* you. If someone's asking you to enter it to "receive" funds, stop. That's not how it works. That's a scam.
@@ -17,7 +17,7 @@
 
 ---
 
-## 🔐 Account & Identity Protection
+##  Account & Identity Protection
 
 - [ ] **Switch on Two-Factor Authentication (2FA) everywhere**
   Your university email, WhatsApp, LinkedIn, banking apps — all of it. 2FA is one of the simplest things you can do, and it makes a huge difference if your password ever gets compromised.
@@ -30,7 +30,7 @@
 
 ---
 
-## 🌐 Safe Browsing & Device Hygiene
+##  Safe Browsing & Device Hygiene
 
 - [ ] **Never do banking on public Wi-Fi**
   Free Wi-Fi at cafés, airports, or campus lounges is convenient — and risky. If you need to pay fees, shop online, or check your bank account, switch to mobile data instead.
@@ -43,7 +43,7 @@
 
 ---
 
-## 🚨 If Something Goes Wrong — Act Fast
+##  If Something Goes Wrong — Act Fast
 
 Don't wait. The sooner you report cyber fraud, the better your chances of limiting the damage.
 
